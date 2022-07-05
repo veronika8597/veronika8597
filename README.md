@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Veronika
 - 🌱 I’m currently a computer science student at Holon Institute of technology
-
+- 💻 Network Operation engineer at SpotNet
 
 <!---
 veronika8597/veronika8597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

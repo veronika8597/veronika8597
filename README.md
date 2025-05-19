@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Veronika
 - 🌱 I’m currently a computer science student at Holon Institute of technology
-- 💻 Network Operation engineer at SpotNet
 - 🦾 Love robots and AI 
 
 <!---

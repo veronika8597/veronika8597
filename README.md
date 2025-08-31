@@ -40,7 +40,7 @@
 
 ![Veronika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veronika8597&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veronika8597&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veronika8597&layout=compact&theme=radical&hide_progress=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veronika8597&layout=compact&langs_count=8&hide_progress=false&theme=radical)
 

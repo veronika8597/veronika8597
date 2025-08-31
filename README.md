@@ -42,7 +42,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veronika8597&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veronika8597&layout=compact&langs_count=8&hide_progress=false)
 
 ---
 

@@ -6,39 +6,42 @@
 ---
 
 🎓 **Recent Computer Science Graduate** — Holon Institute of Technology  
-📱 Currently learning **Android Development** with both Jetpack Compose & XML  
-🤖 Fascinated by AI and robotics — I love exploring how intelligent systems work and how robots interact with the world.    
+💻 Currently diving deep into **Backend Development** with **C# .NET**  
+📡 Working with **RabbitMQ**, **Entity Framework**, and **PostgreSQL**  
 🌍 Based in Israel • 💪 Gym-goer • 🍳 Protein chef • ✈️ Always dreaming of the next trip
 
 ---
 
 ## 🚧 What I’m Working On
-- 📱 Hands-on Android apps — writing clean code & understanding every line
-- 🛍️ **Shoppy** — a practical, smart shopping app   
-- 💧 **Waterly** — hydration tracker app to keep health goals on point  
+- ⚙️ Building backend services with clean architecture principles  
+- 🛡 **TradeGuard** — a real-time risk engine for trading platforms
+- 🔮 **Prism** — detects and classifies SMS messages as genuine or fraudulent
+- 🗄 Experimenting with **databases**, persistence, and transactional consistency  
 
 ---
 
-
 ## 🧠 What I’m Learning & Exploring Now
-- Writing clean, understandable Android code — no more copy-paste  
-- Exploring new Android libraries and UI/UX best practices  
-- Keeping my curiosity alive with AI and robotics content
+- Writing clean, maintainable **C# backend code**  
+- Designing **event-driven systems** with RabbitMQ  
+- Improving my skills with **EF Core + PostgreSQL**
+- Learning **Redis** for caching and high-performance data access
+- Diving into **system design** & scalability  
 
 ---
 
 ## 🧠 Things I Geek Out About
-- 🤖 AI & robots (*I, Robot*, *The Terminator*, sci-fi in general!)
-- 🎨 Clean, elegant UI/UX design
-- 🏋️‍♀️ Hitting the gym and working out regularly to stay strong  
-- 🍳 Creating tasty protein-rich recipes  
-- 🏝️ Dreaming of new travels and adventures  
+- 🖥 Backend engineering & distributed systems  
+- 🤖 AI & robotics — love the blend of logic + autonomy  
+- 🎨 Clean software architecture & design patterns  
+- 🏋️‍♀️ Staying strong and consistent at the gym  
+- 🍳 Cooking protein-rich recipes  
+- 🌍 Exploring new places and cultures  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Veronika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veronika8597&show_icons=true&theme=radical)
+![Veronika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veronika8597&show_icons=true&theme=radical&cache_seconds=1)
 
 ---
 

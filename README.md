@@ -42,6 +42,8 @@
 ## 📊 GitHub Stats
 
 ![Veronika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=veronika8597&show_icons=true&theme=radical&cache_seconds=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=veronika8597&layout=compact&theme=radical&cache_seconds=3600)
+
 
 ---
 
